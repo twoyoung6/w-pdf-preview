@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import App from './App.vue'
-import './registerServiceWorker'
 import "./plugin/vant-init.js";
 import router from './router'
 // 引入组件
